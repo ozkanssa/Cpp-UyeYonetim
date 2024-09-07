@@ -1,0 +1,3 @@
+﻿  UyeYonetim.cpp
+C:\Users\krava\source\repos\UyeYonetim\UyeYonetim\UyeYonetim.cpp(70,1): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  UyeYonetim.vcxproj -> C:\Users\krava\source\repos\UyeYonetim\x64\Debug\UyeYonetim.exe
